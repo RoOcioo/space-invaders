@@ -1,7 +1,7 @@
 import React from 'react';
 import './style/Button.css';
 
-class Spaceship extends React.Component {
+class Button extends React.Component {
 
   render() {
     return (
@@ -12,4 +12,4 @@ class Spaceship extends React.Component {
 
 
 
-export default Spaceship;
+export default Button;
